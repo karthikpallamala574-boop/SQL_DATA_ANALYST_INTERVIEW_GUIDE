@@ -1,2 +1,16 @@
-# SQL_DATA_ANALYST_INTERVIEW_GUIDE
-A complete SQL interview preparation guide in simple English. Covers joins, GROUP BY, subqueries, CTEs, window functions, keys, normalization, indexes and classic problems. Includes step-by-step techniques, interview answers and the Top 100 SQL questions with answers.
+# SQL Interview Guide
+
+A 52-page SQL interview guide written in simple English.
+
+## What's inside
+- 11 levels, from SQL basics to classic interview problems
+- 65+ topics with definition, example, step-by-step technique and interview answer
+- Follow-up questions and common mistakes for every topic
+- Quick revision tables for each level
+- Top 100 SQL interview questions with answers
+
+## Download
+Open `SQL_Interview_Guide.pdf` in this repo.
+
+## Portfolio
+For more details, visit my portfolio: https://karthikpallamala574-boop.github.io/Portfolio/
